@@ -2,7 +2,7 @@
 
 PHARRELL WILLIAMS
 
-HAPPY
+<h1>HAPPY</h1>
 
 | FROM DESPICABLE ME 2 |
 
@@ -10,7 +10,7 @@ HAPPY
 
 | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
 
-HAPPY
+<h1>HAPPY</h1>
 
 WRITTEN BY PHARRELL WILLIAMS
 
